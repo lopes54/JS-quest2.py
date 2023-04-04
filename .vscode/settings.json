@@ -1,0 +1,5 @@
+{
+    "javascript.referencesCodeLens.showOnAllFunctions": false,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "terminal.integrated.tabs.enabled": true,
+}
